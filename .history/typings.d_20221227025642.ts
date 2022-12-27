@@ -1,0 +1,4 @@
+type Category =
+ | "business"
+| "entertainment"
+|
